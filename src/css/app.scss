@@ -1,0 +1,7 @@
+// app global css in SCSS form
+.toolbar-image {
+  width: 100px; /* Bredden du ønsker */
+  height: auto; /* Høyden settes til 'auto' for å beholde bildets opprinnelige aspektforhold */
+  /* Andre CSS-stiler etter behov, for eksempel: */
+  cursor: pointer; /* endrer musepekeren til en peker for å indikere klikkbarhet */
+}
